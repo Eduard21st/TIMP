@@ -1,0 +1,13 @@
+C:\Users\ediks\source\repos\timp-lr2\bin\Debug\netcoreapp3.1\timp-lr2.exe
+C:\Users\ediks\source\repos\timp-lr2\bin\Debug\netcoreapp3.1\timp-lr2.deps.json
+C:\Users\ediks\source\repos\timp-lr2\bin\Debug\netcoreapp3.1\timp-lr2.runtimeconfig.json
+C:\Users\ediks\source\repos\timp-lr2\bin\Debug\netcoreapp3.1\timp-lr2.runtimeconfig.dev.json
+C:\Users\ediks\source\repos\timp-lr2\bin\Debug\netcoreapp3.1\timp-lr2.dll
+C:\Users\ediks\source\repos\timp-lr2\bin\Debug\netcoreapp3.1\timp-lr2.pdb
+C:\Users\ediks\source\repos\timp-lr2\obj\Debug\netcoreapp3.1\timp-lr2.csprojAssemblyReference.cache
+C:\Users\ediks\source\repos\timp-lr2\obj\Debug\netcoreapp3.1\timp-lr2.AssemblyInfoInputs.cache
+C:\Users\ediks\source\repos\timp-lr2\obj\Debug\netcoreapp3.1\timp-lr2.AssemblyInfo.cs
+C:\Users\ediks\source\repos\timp-lr2\obj\Debug\netcoreapp3.1\timp-lr2.csproj.CoreCompileInputs.cache
+C:\Users\ediks\source\repos\timp-lr2\obj\Debug\netcoreapp3.1\timp-lr2.dll
+C:\Users\ediks\source\repos\timp-lr2\obj\Debug\netcoreapp3.1\timp-lr2.pdb
+C:\Users\ediks\source\repos\timp-lr2\obj\Debug\netcoreapp3.1\timp-lr2.genruntimeconfig.cache
